@@ -255,10 +255,11 @@ header {
 /* pr start */
 
 .pr {
-  background: url(/image/pr-bg.svg) no-repeat top center / cover;
+  background: url(/image/pr-bg.svg) no-repeat center top / cover;
   position: relative;
   bottom: 28px;
   margin-bottom: 80px;
+  
 }
 
 .pr_container {
